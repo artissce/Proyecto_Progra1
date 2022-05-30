@@ -1,5 +1,5 @@
 # Proyecto_Progra1
-Introducción 
+**Introducción** 
 
 La estadística es la Estudio que reúne, clasifica y recuenta todos los hechos que tienen una determinada 
 
@@ -25,7 +25,7 @@ práctica utilizando las estructuras, arreglos, funciones, archivos, sentencias 
 
 matemáticos de un lenguaje de propósito general como lenguaje C.
 
-Objetivo 
+**Objetivo** 
 
 Aplicar los conceptos de programación estructurada de lenguaje C en el cálculo de medidas de 
 
@@ -35,9 +35,9 @@ almacenada en un archivo de texto (archivo plano). De este archivo deberá obten
 
 los cálculos mediante programación.
 
-Fundamento teórico 
+**Fundamento teórico **
 
-Descripción de las medidas de tendencia central
+_Descripción de las medidas de tendencia central_
 
 Media aritmética. - Es el promedio de datos de una muestra de n datos, se puede calcular de la siguiente 
 
@@ -59,7 +59,7 @@ continuas, expresadas en intervalos, existe el denominado intervalo modal o, en 
 
 necesario obtener un valor concreto de la variable, se recurre a la interpolación.
 
-Descripción de las medidas de variabilidad
+_Descripción de las medidas de variabilidad_
 
 Rango. - El rango o recorrido estadístico es la diferencia entre el valor máximo y el valor mínimo en un 
 
@@ -88,7 +88,7 @@ Su fórmula expresa la desviación estándar como porcentaje de la media aritmé
 
 mejor interpretación porcentual del grado de variabilidad que la desviación típica o estándar. 
 
-Armado de la gráfica frecuencias para datos agrupados
+_Armado de la gráfica frecuencias para datos agrupados_
 
 Cuando los datos contienen una gran cantidad de elementos, para facilitar los cálculos es necesario 
 
@@ -114,7 +114,7 @@ de rango por lo que es necesario efectuar un ajuste así:4) Calcule las Frecuenc
 
 donde el eje vertical son los intervalos y el eje horizontal es la frecuencia de cada intervalo.
 
-Requerimientos del Sistema 
+**Requerimientos del Sistema **
 
 • Procesador core i3 o ryzen 3 como mínimo
 
@@ -122,6 +122,3 @@ Requerimientos del Sistema
 
 • Compilador dev c instalado o VSCode
 
-Estructura del código 
-
-Nuestro trabajo fue realizado mediante diversas
